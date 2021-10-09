@@ -1,0 +1,9 @@
+{
+  "name": "generator-pj-vue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "yeoman-generator": "^5.4.2"
+  }
+}
